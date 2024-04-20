@@ -5,6 +5,7 @@
 - 🧑‍💻 I’m currently learning Python
 - 🧘 I want to become a coder
 - 😄 Pronouns: He/Him
+- 📖 Currently reading "Introduction to Computation and Programming Using Python" by John V. Guttag
 
 <!---
 Palleonsan/Palleonsan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
